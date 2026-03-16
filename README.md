@@ -106,5 +106,5 @@ This project demonstrates how **serverless automation** can be used to:
 
 ## Author
 
-Dharanikumar N K\
+DK
 DevOps / Cloud Enthusiast
