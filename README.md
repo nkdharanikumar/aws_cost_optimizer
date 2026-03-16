@@ -107,4 +107,4 @@ This project demonstrates how **serverless automation** can be used to:
 ## Author
 
 DK
-DevOps / Cloud Enthusiast
+
